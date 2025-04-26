@@ -100,11 +100,11 @@ The project combines fundamental SQL operations with advanced techniques like Co
 
 1. Clone this repository.
 2. Open MS SQL Server Management Studio.
-3. Run `01_CreateDatabase.sql` and `02_CreateTable.sql`.
+3. Run `Advanced SQL-Case study-1.sql`.
 4. Import `Business_Operations_Dataset.csv` using the Import Wizard.
-5. Execute `04_AnalysisQueries.sql` for data analysis results.
-6. Execute `05_AdvancedTasks.sql` for advanced database operations.
-7. Review project explanations in `06_ProjectDocumentation.docx`.
+5. Execute `AnalysisQueries` for data analysis results.
+6. Execute `AdvancedTasks` for advanced database operations.
+7. Review project explanations in `ProjectDocumentation.docx`.
 
 
 
