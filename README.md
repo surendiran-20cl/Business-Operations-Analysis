@@ -6,7 +6,7 @@ This project aims to enhance operational efficiency, employee engagement, and fu
 
 The project combines fundamental SQL operations with advanced techniques like Common Table Expressions (CTEs), window functions, views, stored procedures, user-defined functions (UDFs), and triggers to deliver actionable business insights.
 
----
+
 
 ## Dataset
 
@@ -34,7 +34,7 @@ The project combines fundamental SQL operations with advanced techniques like Co
 - supplier_id
 - supplier_name
 
----
+
 
 ## Business Problems Addressed
 
@@ -44,7 +44,7 @@ The project combines fundamental SQL operations with advanced techniques like Co
 - Evaluate the impact of employee training programs on sales performance.
 - Support long-term technology and strategic planning through operational insights.
 
----
+
 
 ## Technical Approach
 
@@ -71,7 +71,7 @@ The project combines fundamental SQL operations with advanced techniques like Co
   - Created a clustered index on `company_id` for table optimization.
 
 
----
+
 
 ## Key SQL Concepts Used
 
@@ -85,7 +85,7 @@ The project combines fundamental SQL operations with advanced techniques like Co
 - Stored Procedures and Triggers
 - User-Defined Functions (UDFs)
 
----
+
 
 ## Tools and Technologies
 
@@ -94,7 +94,7 @@ The project combines fundamental SQL operations with advanced techniques like Co
 - SQL Server Import and Export Wizard
 - CSV Data Handling
 
----
+
 
 ## How to Run
 
@@ -106,10 +106,10 @@ The project combines fundamental SQL operations with advanced techniques like Co
 6. Execute `05_AdvancedTasks.sql` for advanced database operations.
 7. Review project explanations in `06_ProjectDocumentation.docx`.
 
----
+
 
 ## License
 
 This project is developed as part of an educational SQL Capstone program and is free to use for learning purposes.
 
----
+
